@@ -74,7 +74,7 @@ class Vehicle {
     //vertex(0, -r*2);
     //vertex(-r, r*2);
     //vertex(r, r*2);
-    ellipse(0, 0, r*3, r*30);//3
+    ellipse(0, 0, r*3, r*3);//3
     //endShape();
     popMatrix();
   }
